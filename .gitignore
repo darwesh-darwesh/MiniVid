@@ -1,0 +1,10 @@
+.DS_Store
+xcuserdata/
+*.xcuserstate
+DerivedData/
+.build/
+models/
+build/
+
+# Local backend credentials (see Secrets.example.xcconfig)
+Secrets.xcconfig
